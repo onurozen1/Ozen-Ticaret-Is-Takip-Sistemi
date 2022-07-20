@@ -23,20 +23,19 @@ Bu projede MSSQL kullanılmıştır. SQL dosyalarını gereken konuma taşıman�
 <br>
 <p align="center">
 <strong>
-You can update the codes over your wifi network, thanks to the code you will upload to your nodemcu programming card, which has an Esp8266 wifi card.
+Araçlar kısmına girerek araç ekleyip,silebilirsiniz.Bu panelde araçlarınızın listesini görebilirsiniz.
 <br>
 <p align="center">
 <strong>
-You can send the codes I gave to your nodemcu card and make certain pin connections and control 4 relays and 1 rgb led on the web.
+Araçların bakım zamanlarını takip etmek için araç bakım işlemleri panelini kullanabilirsiniz.
 <br>
 <p align="center">
 <strong>
-After you write your ip address to the required place in the winform application I have given and compile, you can start using the buttons and led controller.
+Gayrimenkullerinizi gayrimenkul panelinden yönetebilirsiniz.
 <br>
 <p align="center">
 <strong>
-You can convert your website into a mobile application and use it from your phone.
-
+Alacak olduğunuz kiraları kira işlemleri panelinden görüntüleyip toplam kazancınızı görebilirsiniz.
 -----
 
 ### <p align="center">📌 Ekran Görüntüleri 📌</p><br>

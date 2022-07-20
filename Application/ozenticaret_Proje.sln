@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ozenticaret_Proje", "ozenticaret_Proje\ozenticaret_Proje.csproj", "{DD62ACCB-7471-4070-9976-C86E6F92260E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OZENTICARETSETUP", "OZENTICARETSETUP\OZENTICARETSETUP.vdproj", "{C804C819-0784-49DF-9F80-532D775C1991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD62ACCB-7471-4070-9976-C86E6F92260E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD62ACCB-7471-4070-9976-C86E6F92260E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD62ACCB-7471-4070-9976-C86E6F92260E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD62ACCB-7471-4070-9976-C86E6F92260E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C804C819-0784-49DF-9F80-532D775C1991}.Debug|Any CPU.ActiveCfg = Debug
+		{C804C819-0784-49DF-9F80-532D775C1991}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A936F747-A041-49A4-8F37-8B55F33DD299}
+	EndGlobalSection
+EndGlobal

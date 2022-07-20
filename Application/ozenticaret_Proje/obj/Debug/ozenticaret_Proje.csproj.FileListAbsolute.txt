@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\bin\Debug\ozenticaret_Proje.exe.config
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\bin\Debug\ozenticaret_Proje.exe
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\bin\Debug\ozenticaret_Proje.pdb
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\obj\Debug\ozenticaret_Proje.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\obj\Debug\ozenticaret_Proje.Form1.resources
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\obj\Debug\ozenticaret_Proje.Properties.Resources.resources
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\obj\Debug\ozenticaret_Proje.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\obj\Debug\ozenticaret_Proje.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\obj\Debug\ozenticaret_Proje.exe
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\obj\Debug\ozenticaret_Proje.pdb
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\obj\Debug\ozenticaret_Proje.Form2.resources
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\obj\Debug\ozenticaret_Proje.Form3.resources
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\obj\Debug\ozenticaret_Proje.Form5.resources
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\obj\Debug\ozenticaret_Proje.Form7.resources
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\obj\Debug\ozenticaret_Proje.Form8.resources
+C:\Users\HP\source\repos\ozenticaret_Proje\ozenticaret_Proje\obj\Debug\ozenticaret_Proje.Form4.resources

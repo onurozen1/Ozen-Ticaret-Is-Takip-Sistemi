@@ -36,6 +36,7 @@ Gayrimenkullerinizi gayrimenkul panelinden yönetebilirsiniz.
 <p align="center">
 <strong>
 Alacak olduğunuz kiraları kira işlemleri panelinden görüntüleyip toplam kazancınızı görebilirsiniz.
+ 
 -----
 
 ### <p align="center">📌 Ekran Görüntüleri 📌</p><br>

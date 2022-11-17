@@ -3,8 +3,6 @@
  
 -----
 
-### <p align="center"> Özen Ticaret İş Takip Sistemi </p>
-
 ### <p align="center">📌 Ekran Görüntüleri 📌</p><br>
 ![GirisSayfa](https://github.com/oozen9/Ozen-Ticaret-Is-Takip-Sistemi/blob/main/ScreenShots/1.png)<br>
 ![AcılısEkranı](https://github.com/oozen9/Ozen-Ticaret-Is-Takip-Sistemi/blob/main/ScreenShots/2.png)<br>

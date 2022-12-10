@@ -2,7 +2,6 @@
 ### <p align="center">Özen Ticaret Şirketi İçin Araç ve Gayrimenkul Yönetim Yazılımı</p>
  <p align="center">C# - Windows Form</p>
 <p align="center">MSSQL - Veri Tabanı</p>
------
 
 ### <p align="center">📌 Ekran Görüntüleri 📌</p><br>
 ![GirisSayfa](https://github.com/oozen9/Ozen-Ticaret-Is-Takip-Sistemi/blob/main/ScreenShots/1.png)<br>
